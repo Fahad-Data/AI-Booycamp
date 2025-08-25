@@ -11,7 +11,7 @@ Train ARIMA and SARIMA models for forecasting,
 Compare the performance of both models,
 Select the best model for future sales prediction
 
-##Steps
+## Steps
 Data Loading,
 Exploratory Data Analysis (EDA),
 Model Training (ARIMA & SARIMA),
