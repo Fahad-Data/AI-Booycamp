@@ -1,4 +1,4 @@
-# AI-Booycamp
+# AI-Bootcamp
 Sales Forecasting using ARIMA and SARIMA
 
 Overview
