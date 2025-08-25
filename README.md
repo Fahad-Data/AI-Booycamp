@@ -1,10 +1,10 @@
 # AI-Bootcamp
 Sales Forecasting using ARIMA and SARIMA
 
-Overview
+## Overview
 This project aims to predict future sales based on historical sales data using ARIMA and SARIMA models.
 
-Objective
+## Objective
 Perform exploratory data analysis (EDA)
 Clean and preprocess the data
 Train ARIMA and SARIMA models for forecasting
